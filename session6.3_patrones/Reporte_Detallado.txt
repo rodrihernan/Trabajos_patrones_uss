@@ -1,0 +1,5 @@
+===== Reporte Detallado =====
+1. Venta Laptop S/3500
+2. Venta Mouse S/80
+3. Venta Monitor S/900
+4. Venta Teclado S/150

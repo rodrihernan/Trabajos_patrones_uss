@@ -1,0 +1,4 @@
+===== Reporte Resumen =====
+Total registros: 4
+Primer registro: Venta Laptop S/3500
+Último registro: Venta Teclado S/150
